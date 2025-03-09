@@ -1,0 +1,1 @@
+docker run --name mysql-db -p3306:3306 -d --env-file "E:/demo/hello-docker/create mysql-db container/.env" mysql
